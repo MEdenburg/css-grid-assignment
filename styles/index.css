@@ -40,3 +40,23 @@
     background: #55A630;
     grid-area: 7 / 1 / 11 /3;
 }
+
+.eighth {
+    background: #AACC00;
+    grid-area: 7 / 3 / 9 / 4;
+}
+
+.ninth {
+    background: #BFD200;
+    grid-area: 9 / 3 / 11 / 4;
+}
+
+.tenth {
+    background: #D4D700;
+    grid-area: 7 / 4 / 11 / 6;
+}
+
+.eleventh {
+    background: #007F5F;
+    grid-area: 7 / 6 / 11 / 7;
+}
