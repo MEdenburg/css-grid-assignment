@@ -10,3 +10,13 @@
     background: #007F5F;
     grid-area: 1 / 1 / 4 / 3;
 }
+
+.second {
+    background: #2B9348;
+    grid-area: 4 / 1 / 7 / 3;
+}
+
+.third {
+    background: #80B918;
+    grid-area: 1 / 3 / 7 / 5;
+}
