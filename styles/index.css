@@ -1,0 +1,12 @@
+.grid-container {
+    display: grid;
+    height: 100vh;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(12, 1fr);
+    grid-gap: 24px;
+}
+
+.first {
+    background: #007F5F;
+    grid-area: 1 / 1 / 4 / 3;
+}
