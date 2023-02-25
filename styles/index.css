@@ -60,3 +60,19 @@
     background: #007F5F;
     grid-area: 7 / 6 / 11 / 7;
 }
+
+.palette {
+    grid-area: 11 / 1 / 13 / 7;
+    display: flex;
+    align-items: center;
+    background: #9BC1BC;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 78px;
+    font-family: 'Inter', sans-serif;
+    font-style: bold;
+}
+
+.text {
+    margin-left: 24px;
+}
